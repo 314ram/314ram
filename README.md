@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Perambah
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Python, and R
